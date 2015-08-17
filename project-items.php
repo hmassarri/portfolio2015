@@ -139,6 +139,7 @@
                     <li>jQuery</li>
                     <li>Photoshop</li>
                 </ul>
+                <p class="portfolio-link"><a href="http://www.chadsaharic.com" target="_blank">http://www.chadsaharic.com</a></p>
             </div>
 
         </div>
@@ -221,6 +222,7 @@
                     <li>LESS</li>
                     <li>Photoshop</li>
                 </ul>
+                <p class="portfolio-link"><a href="http://chembuilding.rutgers.edu" target="_blank">http://chembuilding.rutgers.edu</a></p>
             </div>
 
         </div>
@@ -293,7 +295,7 @@
 
             <div class="col-md-4">
                 <h3>Design / Development</h3>
-                <p>I was asked to create the new look for the Chemistry Building at Rutgers University. I was responsible for the design, development, and user experience.</p>
+                <p>I was asked to create the new look for the Convocation Site at Rutgers University. I was responsible for the design, development, and user experience.</p>
                 <ul>
                     <li>Joomla</li>
                     <li>PHP</li>
@@ -302,6 +304,7 @@
                     <li>LESS</li>
                     <li>Photoshop</li>
                 </ul>
+                <p class="portfolio-link"><a href="http://convocation.sas.rutgers.edu" target="_blank">http://convocation.sas.rutgers.edu</a></p>
             </div>
 
         </div>
@@ -384,8 +387,8 @@
                     <li>jQuery</li>
                     <li>Photoshop</li>
                 </ul>
+                <p class="portfolio-link"><a href="http://www.hugomassarri.com/portfolio/decadencehairdesign" target="_blank">http://www.hugomassarri.com/portfolio/decadencehairdesign</a></p>
             </div>
-
         </div>
         <!-- /.row -->
 
@@ -468,8 +471,8 @@
                     <li>LESS</li>
                     <li>Photoshop</li>
                 </ul>
+                <p class="portfolio-link"><a href="http://hpcc.rutgers.edu" target="_blank">http://hpcc.rutgers.edu</a></p>
             </div>
-
         </div>
         <!-- /.row -->
 
@@ -552,8 +555,8 @@
                     <li>LESS</li>
                     <li>Photoshop</li>
                 </ul>
+                <p class="portfolio-link"><a href="http://iamdn.rutgers.edu" target="_blank">http://iamdn.rutgers.edu</a></p>
             </div>
-
         </div>
         <!-- /.row -->
 
@@ -636,8 +639,8 @@
                     <li>LESS</li>
                     <li>Photoshop</li>
                 </ul>
+                <p class="portfolio-link"><a href="http://irw.rutgers.edu" target="_blank">http://irw.rutgers.edu</a></p>
             </div>
-
         </div>
         <!-- /.row -->
 
@@ -711,7 +714,9 @@
 
             <div class="col-md-4">
                 <h3>Design / Development</h3>
-                <p>I was approached to co-found a design studio in Somerville, NJ. I decided to pursue and see what would happen. It turned out that not only did I hone my skills as designer and developer, It was an awesome experience and I look forward to doing it again. Much respect to the original members of JUMA. I hope to work with them again in the future.</p>
+                <p>I was approached to co-found a design studio in Somerville, NJ. I decided to pursue and see what would happen. 
+                    It was an awesome experience and I look forward to doing it again. 
+                    Much respect to the original members of JUMA. I hope to work with them again in the future.</p>
                 <ul>
                     <li>PHP</li>
                     <li>CSS</li>
@@ -719,8 +724,8 @@
                     <li>Bootstrap</li>
                     <li>Photoshop</li>
                 </ul>
+                <p class="portfolio-link"><a href="http://www.hugomassarri.com/portfolio/jumacreative" target="_blank">http://www.hugomassarri.com/portfolio/jumacreative</a></p>
             </div>
-
         </div>
         <!-- /.row -->
 
@@ -803,8 +808,8 @@
                     <li>Bootstrap</li>
                     <li>Photoshop</li>
                 </ul>
+                <p class="portfolio-link"><a href="http://cmsr.rutgers.edu" target="_blank">http://cmsr.rutgers.edu</a></p>
             </div>
-
         </div>
         <!-- /.row -->
 
@@ -887,8 +892,8 @@
                     <li>LESS</li>
                     <li>Photoshop</li>
                 </ul>
+                <p class="portfolio-link"><a href="http://mountainview.rutgers.edu" target="_blank">http://mountainview.rutgers.edu</a></p>
             </div>
-
         </div>
         <!-- /.row -->
 
@@ -971,8 +976,8 @@
                     <li>LESS</li>
                     <li>Photoshop</li>
                 </ul>
+                <p class="portfolio-link"><a href="http://rei.rutgers.edu" target="_blank">http://rei.rutgers.edu</a></p>
             </div>
-
         </div>
         <!-- /.row -->
 
@@ -1053,8 +1058,8 @@
                     <li>Bootstrap</li>
                     <li>Photoshop</li>
                 </ul>
+                <p class="portfolio-link"><a href="http://showmay.heimbuchassoc.com/" target="_blank">http://showmay.heimbuchassoc.com/</a></p>
             </div>
-
         </div>
         <!-- /.row -->
 
@@ -1135,8 +1140,8 @@
 					<li>CSS</li>
                     <li>Photoshop</li>
                 </ul>
+                <p class="portfolio-link"><a href="http://www.hugomassarri.com/portfolio/theunidentified" target="_blank">http://www.hugomassarri.com/portfolio/theunidentified</a></p>
             </div>
-
         </div>
         <!-- /.row -->
 
@@ -1210,15 +1215,15 @@
 
             <div class="col-md-4">
                 <h3>Design / Development</h3>
-                <p>I did this design for the Victor. I was responsible for the layout, design, and development of this site.  This was also one of the first sites that I did and curated for some time.</p>
+                <p>I did this design for the DJ Valentine. I was responsible for the layout, design, and development of this site.  This was also one of the first sites that I did and curated for some time.</p>
                 <ul>
                     <li>PHP</li>
                     <li>jQuery</li>
 					<li>CSS</li>
                     <li>Photoshop</li>
                 </ul>
+                <p class="portfolio-link"><a href="http://www.hugomassarri.com/portfolio/valentine" target="_blank">http://www.hugomassarri.com/portfolio/valentine</a></p>
             </div>
-
         </div>
         <!-- /.row -->
 
@@ -1299,8 +1304,8 @@
 					<li>Bootstrap</li>
                     <li>Photoshop</li>
                 </ul>
+                <p class="portfolio-link"><a href="http://www.hugomassarri.com/portfolio/wram2013" target="_blank">http://www.hugomassarri.com/portfolio/wram2013</a></p>
             </div>
-
         </div>
         <!-- /.row -->
 
