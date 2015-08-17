@@ -39,8 +39,27 @@
     <nav id="sidebar-wrapper">
         <ul class="sidebar-nav">
             <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
-             <li class="sidebar-brand">
-			 	Projects
+            <li class="sidebar-brand">
+				Main Menu
+            </li>
+            <li>
+                <a href="index.php#top" onclick = $("#menu-close").click(); >Home</a>
+            </li>
+            <li>
+                <a href="index.php#about" onclick = $("#menu-close").click(); >About</a>
+            </li>
+            <li>
+                <a href="index.php#skills" onclick = $("#menu-close").click(); >Skills</a>
+            </li>
+            <li>
+                <a href="index.php#projects" onclick = $("#menu-close").click(); >Projects</a>
+            </li>
+            <li>
+                <a href="index.php#contact" onclick = $("#menu-close").click(); >Contact</a>
+            </li>
+            <br />
+            <li class="sidebar-brand">
+                More Projects
             </li>
             <li>
                 <a href="#chad"  onclick = $("#menu-close").click(); >Chad Saharic</a>
@@ -86,25 +105,6 @@
             </li>
             <li>
                 <a href="#wram" onclick = $("#menu-close").click(); >WRAM 2013</a>
-            </li>
-            <br />
-            <li class="sidebar-brand">
-				Main Menu
-            </li>
-            <li>
-                <a href="index.php#top" onclick = $("#menu-close").click(); >Home</a>
-            </li>
-            <li>
-                <a href="index.php#about" onclick = $("#menu-close").click(); >About</a>
-            </li>
-            <li>
-                <a href="index.php#skills" onclick = $("#menu-close").click(); >Skills</a>
-            </li>
-            <li>
-                <a href="index.php#projects" onclick = $("#menu-close").click(); >Projects</a>
-            </li>
-            <li>
-                <a href="index.php#contact" onclick = $("#menu-close").click(); >Contact</a>
             </li>
         </ul>
     </nav>

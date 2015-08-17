@@ -213,7 +213,7 @@
     </section>
 	
 	<!-- Quote -->
-    <section id="about" class="quote">
+    <section id="about" class="quote2">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -237,19 +237,19 @@
                 <h2 class="page-header">Projects</h2>
             </div>
 
-            <div class="col-sm-4 col-xs-6">
+            <div class="col-sm-4 col-xs-12">
                 <a href="project-items.php#chad">
                     <img class="img-responsive portfolio-item thumb thumb" src="img/web/chad.png" alt="">
                 </a>
             </div>
 
-            <div class="col-sm-4 col-xs-6">
+            <div class="col-sm-4 col-xs-12">
                 <a href="/portfolio/project-items.php#chem">
                     <img class="img-responsive portfolio-item thumb" src="img/web/chem.png" alt="">
                 </a>
             </div>
 
-            <div class="col-sm-4 col-xs-6">
+            <div class="col-sm-4 col-xs-12">
                 <a href="project-items.php#convocation">
                     <img class="img-responsive portfolio-item thumb" src="img/web/convocation.png" alt="">
                 </a>
@@ -262,19 +262,19 @@
         <!-- Project Row 2 -->
         <div class="row">
 			
-			<div class="col-sm-4 col-xs-6">
+			<div class="col-sm-4 col-xs-12">
                 <a href="project-items.php#decadence">
                     <img class="img-responsive portfolio-item thumb" src="img/web/decadence.png" alt="">
                 </a>
             </div>
 			
-            <div class="col-sm-4 col-xs-6">
+            <div class="col-sm-4 col-xs-12">
                 <a href="project-items.php#hpcc">
                     <img class="img-responsive portfolio-item thumb" src="img/web/hpcc.png" alt="">
                 </a>
             </div>
 
-            <div class="col-sm-4 col-xs-6">
+            <div class="col-sm-4 col-xs-12">
                 <a href="project-items.php#iamdn">
                     <img class="img-responsive portfolio-item thumb" src="img/web/iamdn.png" alt="">
                 </a>
@@ -287,19 +287,19 @@
         <!-- Project Row 3 -->
         <div class="row">
 
-            <div class="col-sm-4 col-xs-6">
+            <div class="col-sm-4 col-xs-12">
                 <a href="project-items.php#irw">
                     <img class="img-responsive portfolio-item thumb" src="img/web/irw.png" alt="">
                 </a>
             </div>
 
-            <div class="col-sm-4 col-xs-6">
+            <div class="col-sm-4 col-xs-12">
                 <a href="project-items.php#juma">
                     <img class="img-responsive portfolio-item thumb" src="img/web/juma.png" alt="">
                 </a>
             </div>
         
-            <div class="col-sm-4 col-xs-6">
+            <div class="col-sm-4 col-xs-12">
                 <a href="project-items.php#math">
                     <img class="img-responsive portfolio-item thumb" src="img/web/math.png" alt="">
                 </a>
@@ -310,19 +310,19 @@
         <!-- Project Row 4 -->
         <div class="row">
 	        
-            <div class="col-sm-4 col-xs-6">
+            <div class="col-sm-4 col-xs-12">
                 <a href="project-items.php#mountain">
                     <img class="img-responsive portfolio-item thumb" src="img/web/mountainview.png" alt="">
                 </a>
             </div>
 
-            <div class="col-sm-4 col-xs-6">
+            <div class="col-sm-4 col-xs-12">
                 <a href="project-items.php#rei">
                     <img class="img-responsive portfolio-item thumb" src="img/web/rei.png" alt="">
                 </a>
             </div>
 
-            <div class="col-sm-4 col-xs-6">
+            <div class="col-sm-4 col-xs-12">
                 <a href="project-items.php#showmay">
                     <img class="img-responsive portfolio-item thumb" src="img/web/showmay.png" alt="">
                 </a>
@@ -334,19 +334,19 @@
         <!-- Project Row 5 -->
         <div class="row">
 
-            <div class="col-sm-4 col-xs-6">
+            <div class="col-sm-4 col-xs-12">
                 <a href="project-items.php#undentified">
                     <img class="img-responsive portfolio-item thumb" src="img/web/unidentified.png" alt="">
                 </a>
             </div>
 
-            <div class="col-sm-4 col-xs-6">
+            <div class="col-sm-4 col-xs-12">
                 <a href="project-items.php#valentine">
                     <img class="img-responsive portfolio-item thumb" src="img/web/valentine.png" alt="">
                 </a>
             </div>
 
-            <div class="col-sm-4 col-xs-6">
+            <div class="col-sm-4 col-xs-12">
                 <a href="project-items.php#wram">
                     <img class="img-responsive portfolio-item thumb" src="img/web/wram.png" alt="">
                 </a>
@@ -360,7 +360,7 @@
     <!-- /.container -->
     
     <!-- Quote -->
-    <section id="about" class="quote">
+    <section id="about" class="quote4">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
