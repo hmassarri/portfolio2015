@@ -1339,16 +1339,9 @@
         <!-- /.row -->
 
         <hr>
-        
-        <div class="col-lg-12 text-center">
-	        <a href="#chad" class="btn btn-dark text-center">Back to Top</a>
-        </div>
-        
-        <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
     </div>
-    <!-- /.container -->
-    
+
+      
     <!-- Footer -->
     <footer>
         <div class="container">
@@ -1380,6 +1373,11 @@
         </div>
     </footer>
     
+    <div class="col-lg-12 text-center">
+            <a href="#chad" class="btn btn-dark text-center">Back to Top</a>
+        </div>
+    </div>
+    <!-- /.container -->
     
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
@@ -1423,17 +1421,18 @@
 
     $('document').ready(function() {
 		       
-		var imgArray = ['img/web/chad.png', 'img/web/chem.png', 'img/web/convocation.png', 'img/web/decadence.png', 'img/web/hpcc.png', 'img/web/iamdn.png', 'img/web/irw.png', 'img/web/juma.png', 'img/web/math.png', 'img/web/mountainview.png', 'img/web/rei.png', 'img/web/showmay.png', 'img/web/unidentified.png', 'img/web/valentine.png', 'img/web/wram.png'];
+		/*
+        var imgArray = ['img/web/chad.png', 'img/web/chem.png', 'img/web/convocation.png', 'img/web/decadence.png', 'img/web/hpcc.png', 'img/web/iamdn.png', 'img/web/irw.png', 'img/web/juma.png', 'img/web/math.png', 'img/web/mountainview.png', 'img/web/rei.png', 'img/web/showmay.png', 'img/web/unidentified.png', 'img/web/valentine.png', 'img/web/wram.png'];
 			
 		//var urlArray = ['project-items.php#chad'];
 			
 		//var dataIndex = '<a href=\"' urlArray + '"><img src=\"' + imgArray + '" />';
-		/*	
+			
 		var randNum1 = Math.floor(Math.random() * imgArray.length);
 		var randNum2 = Math.floor(Math.random() * imgArray.length); 
 		var randNum3 = Math.floor(Math.random() * imgArray.length); 
 		var randNum4 = Math.floor(Math.random() * imgArray.length);
-		*/	
+			
 		var randNum5 = Math.floor(Math.random() * imgArray.length);
 		var randNum6 = Math.floor(Math.random() * imgArray.length); 
 		var randNum7 = Math.floor(Math.random() * imgArray.length); 
@@ -1444,7 +1443,7 @@
 		var randNum11 = Math.floor(Math.random() * imgArray.length); 
 		var randNum12 = Math.floor(Math.random() * imgArray.length); 
 		
-		/*
+		
 		$('img.item1').attr('src', imgArray[randNum1]);
 		$('img.item2').attr('src', imgArray[randNum2]);
 		$('img.item3').attr('src', imgArray[randNum3]);
