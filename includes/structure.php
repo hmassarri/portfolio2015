@@ -35,38 +35,30 @@
 </head>';
     }
 
-
-
-
     //Menu -------------------------------------
 	function navMenu() {
-
-	echo '<a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars"></i></a>
-    <nav id="sidebar-wrapper">
-        <ul class="sidebar-nav">
-            <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
-            <li class="sidebar-brand">
-                Main Menu
-            </li>
-            <li>
-                <a href="#top" onclick = $("#menu-close").click(); >Home</a>
-            </li>
-            <li>
-                <a href="#about" onclick = $("#menu-close").click(); >About</a>
-            </li>
-            <li>
-                <a href="#projects" onclick = $("#menu-close").click(); >Projects</a>
-            </li>
-            <li>
-                <a href="#contact" onclick = $("#menu-close").click(); >Contact</a>
-            </li>
-        </ul>
-    </nav>';
+    	echo '<a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars"></i></a>
+        <nav id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
+                <li class="sidebar-brand">
+                    Main Menu
+                </li>
+                <li>
+                    <a href="#top" onclick = $("#menu-close").click(); >Home</a>
+                </li>
+                <li>
+                    <a href="#about" onclick = $("#menu-close").click(); >About</a>
+                </li>
+                <li>
+                    <a href="#projects" onclick = $("#menu-close").click(); >Projects</a>
+                </li>
+                <li>
+                    <a href="#contact" onclick = $("#menu-close").click(); >Contact</a>
+                </li>
+            </ul>
+        </nav>';
 	}
-
-
-
-
 
     //Footer -------------------------------------
     function printFooter() {
@@ -104,10 +96,6 @@
     </div>';
     }
 
-
-
-
-
     //Quotes -------------------------------------
     function printQuotes($quote, $who, $type) {
         echo '<section id="about" class="' . $type . '">';
@@ -124,16 +112,10 @@
         echo '</section>';
     }
 
-
-
-
-
     //Skills -------------------------------------
     function printSkills() {
-        
         $fontawesome = ["fa-html5", "fa-css3", "fa-code", "fa-coffee", "fa-apple", "fa-joomla", "fa-drupal", "fa-wordpress", "fa-linux", "fa-codepen", "fa-bicycle", "fa-motorcycle"];
         $percents = [99, 95, 95, 99, 99, 98, 89, 85, 90, 81, 98, 100];
-
         for ($x = 0; $x < 12; $x++) {
             echo '<div class="col-md-3 col-sm-6">' ."\n\t\t\t\t\t\t\t";
             echo '<div class="service-item">' ."\n\t\t\t\t\t\t\t\t";
@@ -145,11 +127,9 @@
             echo '</div>' ."\n\t\t\t\t\t\t";
             echo '</div>' ."\n\t\t\t\t\t\t";
         }
-
     }
 
-
-    //Projects
+    //Projects -------------------------------------
     function printProjects() {
         $projects = ["chad", "chem", "convocation", "decadence", "hpcc", "iamdn", "irw", "juma", "math", "mountainview", "rei", "showmay", "unidentified", "valentine", "wram"];
         $length = count($projects);
@@ -161,7 +141,5 @@
             echo '</div>' ."\n\t\t\t";
         }
     }
-
-
 
 ?>
