@@ -1,8 +1,5 @@
-<?php 
-    include('includes/structure.php'); 
-    printHeader();
-?>
-
+<?php require_once 'includes/structure.php'; ?>
+<?php printHeader(); ?>
 <body>
     
     <!-- Navigation -->

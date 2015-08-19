@@ -1,6 +1,11 @@
 <?php 
 
-    //Header -------------------------------------
+
+        
+    // PRINT COMMON ELEMENTS
+    // ----------------------------------------
+
+    // Header - printHeader()
     function printHeader() {
         echo '<!DOCTYPE html>
 <html lang="en">
@@ -35,9 +40,9 @@
 </head>';
     }
 
-    //Menu -------------------------------------
-	function navMenu() {
-    	echo '<a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars"></i></a>
+    //Menu - navMenu()
+    function navMenu() {
+        echo '<a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars"></i></a>
         <nav id="sidebar-wrapper">
             <ul class="sidebar-nav">
                 <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
@@ -58,9 +63,9 @@
                 </li>
             </ul>
         </nav>';
-	}
+    }
 
-    //Footer -------------------------------------
+    //Footer - printFooter()
     function printFooter() {
         echo '<footer>
         <div class="container">
@@ -96,7 +101,12 @@
     </div>';
     }
 
-    //Quotes -------------------------------------
+
+    
+    // FUNCTIONS
+    // ----------------------------------------
+
+    //Quotes - printQuotes()
     function printQuotes($quote, $who, $type) {
         echo '<section id="about" class="' . $type . '">';
             echo '<div class="container">';
@@ -112,11 +122,12 @@
         echo '</section>';
     }
 
-    //Skills -------------------------------------
+    //Skills - printSkills()
     function printSkills() {
-        $fontawesome = ["fa-html5", "fa-css3", "fa-code", "fa-coffee", "fa-apple", "fa-joomla", "fa-drupal", "fa-wordpress", "fa-linux", "fa-codepen", "fa-bicycle", "fa-motorcycle"];
-        $percents = [99, 95, 95, 99, 99, 98, 89, 85, 90, 81, 98, 100];
-        for ($x = 0; $x < 12; $x++) {
+        $fontawesome = array("fa-html5", "fa-css3", "fa-code", "fa-coffee", "fa-apple", "fa-joomla", "fa-drupal", "fa-wordpress", "fa-linux", "fa-codepen", "fa-bicycle", "fa-motorcycle");
+        $percents = array(99, 95, 95, 99, 99, 98, 89, 85, 90, 81, 98, 100);
+        $length = count($fontawesome);
+        for ($x = 0; $x < $length; $x++) {
             echo '<div class="col-md-3 col-sm-6">' ."\n\t\t\t\t\t\t\t";
             echo '<div class="service-item">' ."\n\t\t\t\t\t\t\t\t";
             echo '<span class="fa-stack fa-4x">' ."\n\t\t\t\t\t\t\t\t\t";
@@ -129,9 +140,9 @@
         }
     }
 
-    //Projects -------------------------------------
+    //Projects - printProjects()
     function printProjects() {
-        $projects = ["chad", "chem", "convocation", "decadence", "hpcc", "iamdn", "irw", "juma", "math", "mountainview", "rei", "showmay", "unidentified", "valentine", "wram"];
+        $projects = array("chad", "chem", "convocation", "decadence", "hpcc", "iamdn", "irw", "juma", "math", "mountainview", "rei", "showmay", "unidentified", "valentine", "wram");
         $length = count($projects);
         for ($p = 0; $p < $length; $p++) {
             echo '<div class="col-sm-4 col-xs-12">' ."\n\t\t\t\t";
@@ -141,5 +152,6 @@
             echo '</div>' ."\n\t\t\t";
         }
     }
+    
 
 ?>
