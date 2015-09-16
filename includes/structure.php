@@ -25,6 +25,7 @@
 
     <!-- Custom CSS -->
     <link href="css/stylish-portfolio.css" rel="stylesheet">
+    <link href="css/portfolio-item.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -98,6 +99,41 @@
     </footer>
     <div class="col-lg-12 text-center">
         <a class="btn btn-lg btn-dark" href="#top">Back to Top</a>
+    </div>';
+    }
+
+    function printProjectFooter() {
+        echo '<footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-10 col-lg-offset-1 text-center">
+                    <h4><strong>Hugo M.</strong>
+                    </h4>
+                    <ul class="list-unstyled">
+                        <li><i class="fa fa-phone fa-fw"></i> (408) 805-4846</li>
+                        <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:hugo@hugomassarri.com">hugo@hugomassarri.com</a>
+                        </li>
+                    </ul>
+                    <br>
+                    <ul class="list-inline">
+                        <li>
+                            <a href="https://github.com/hmassarri" target="_blank"><i class="fa fa-github fa-fw fa-3x"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/blurtreynolds" target="_blank"><i class="fa fa-twitter fa-fw fa-3x"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://www.linkedin.com/in/hmassarri" target="_blank"><i class="fa fa-linkedin fa-fw fa-3x"></i></a>
+                        </li>
+                    </ul>
+                    <hr class="small">
+                    <p class="text-muted">Copyright &copy; Hugo M. / hugomassarri.com 2010-2015</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <div class="col-lg-12 text-center">
+        <a class="btn btn-lg btn-dark" href="#chad">Back to Top</a>
     </div>';
     }
 
