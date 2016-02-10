@@ -64,6 +64,9 @@
                 <a href="#rei" onclick = $("#menu-close").click(); >Rutgers: Rutgers Energy Institute</a>
             </li>
             <li>
+                <a href="#sas-deans" onclick = $("#menu-close").click(); >Rutgers: SAS Dean's Office</a>
+            </li>
+            <li>
                 <a href="#showmay" onclick = $("#menu-close").click(); >Showmay Heimbuch, Controller</a>
             </li>
             <li>
@@ -994,6 +997,92 @@
 		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
     </div>
     <!-- /.container -->
+    
+    
+    <!-- SAS-Deans -->
+	<div class="col-lg-4 col-lg-offset-8 text-center">
+	        <a href="#sas-deans" class="btn btn-dark text-center back-button">Back</a>
+    </div>
+    <div id="sas-deans" class="container">
+
+        <!-- Portfolio Item Heading -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">SAS Dean's Office
+                    <small>Rutgers, School of Arts and Sciences</small>
+                </h1>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <!-- Portfolio Item Row -->
+        <div class="row">
+
+            <div class="col-md-8">
+                <img class="img-responsive" src="img/web/sas-deans.png" alt="front page of sas deans office">
+            </div>
+
+            <div class="col-md-4">
+                <h3>Lead Design / Development / UIX / Data Analysis / Site Architect</h3>
+                <p>I was the lead design and site architect for this site. I was responsible for the site architecture, layout, design, development, UIX, and data analysis for this site.</p>
+                <ul>
+                    <li>PHP</li>
+                    <li>jQuery</li>
+                    <li>Bootstrap</li>
+                    <li>Photoshop</li>
+                    <li>Joomla</li>
+                    <li>LESS</li>
+                </ul>
+                <p class="portfolio-link"><a href="http://sas.rutgers.edu/" target="_blank">http://sas.rutgers.edu/</a></p>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <!-- Related Projects Row -->
+        <div class="row">
+
+            <div class="col-lg-12">
+                <h3 class="page-header">Related Projects</h3>
+            </div>
+
+            <div class="col-sm-3 col-xs-6">
+                <a href="#chad">
+                    <img class="img-responsive portfolio-item item9" src="img/web/iamdn.png" alt="">
+                </a>
+            </div>
+
+            <div class="col-sm-3 col-xs-6">
+                <a href="#decadence">
+                    <img class="img-responsive portfolio-item item10" src="img/web/hpcc.png" alt="">
+                </a>
+            </div>
+
+            <div class="col-sm-3 col-xs-6">
+                <a href="#juma">
+                    <img class="img-responsive portfolio-item item11" src="img/web/math.png" alt="">
+                </a>
+            </div>
+
+            <div class="col-sm-3 col-xs-6">
+                <a href="#valentine">
+                    <img class="img-responsive portfolio-item item12" src="img/web/rei.png" alt="">
+                </a>
+            </div>
+
+        </div>
+        <!-- /.row -->
+    
+    	<hr>
+        
+        <div class="col-lg-12 text-center">
+	        <a href="#showmay" class="btn btn-dark text-center">Next</a>
+        </div>
+        
+        <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+    </div>
+    <!-- /.container -->
+    
     
     <!-- Showmay -->
 	<div class="col-lg-4 col-lg-offset-8 text-center">

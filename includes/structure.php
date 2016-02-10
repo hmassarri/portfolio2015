@@ -178,7 +178,7 @@
 
     //Projects - printProjects()
     function printProjects() {
-        $projects = array("chad", "chem", "convocation", "decadence", "hpcc", "iamdn", "irw", "juma", "math", "mountainview", "rei", "showmay", "unidentified", "valentine", "wram");
+        $projects = array("chad", "chem", "convocation", "decadence", "hpcc", "iamdn", "irw", "juma", "math", "mountainview", "rei", "sas-deans", "showmay", "unidentified", "valentine", "wram");
         $length = count($projects);
         for ($p = 0; $p < $length; $p++) {
             echo '<div class="col-sm-4 col-xs-12">' ."\n\t\t\t\t";
